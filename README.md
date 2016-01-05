@@ -14,8 +14,10 @@ This program guesses the author of an unknown text based on a corpus of sample t
 
 For example, try these 2 sample "mystery" texts:
 
-`./Main.native texts/sample_Northranger_Abbey.txt from: to:`\
-`./Main.native texts/sample_Romeo_and_Juliet.txt from: to:`\
+`./Main.native texts/sample_Northranger_Abbey.txt from: to:`
+
+`./Main.native texts/sample_Romeo_and_Juliet.txt from: to:`
+
 `./Main.native texts/sample_Romeo_and_Juliet.txt from:1500 to:1650`
 
 
