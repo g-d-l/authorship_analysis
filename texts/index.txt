@@ -1,0 +1,45 @@
+Charles Dickens
+1812
+#1870
+*Charles John Huffam Dickens (7 February 1812 - 9 June 1870) was an English writer and social critic. He created some of the world's most memorable fictional characters and is generally regarded as the greatest novelist of the Victorian period.
+texts/Charles Dickens/A Tale of Two Cities.txt
+texts/Charles Dickens/Bleak House.txt
+texts/Charles Dickens/Great Expectations.txt
+texts/Charles Dickens/The Old Curiousity Shop.txt
+~
+Herman Melville
+1819
+#1891
+*Herman Melville (August 1, 1819 - September 28, 1891) was an American novelist, poet, and writer of short stories.
+texts/Herman Melville/Battle-Pieces and Aspects of the War.txt
+texts/Herman Melville/Moby Dick.txt
+texts/Herman Melville/White Jacket.txt
+~
+Jane Austen
+1775
+#1817
+*Jane Austen (16 December 1775 - 18 July 1817) was an English novelist whose works of romantic fiction, set among the landed gentry, earned her a place as one of the most widely read writers in English literature. Her realism, biting irony and social commentary have gained her historical importance among scholars and critics.
+texts/Jane Austen/Emma.txt
+texts/Jane Austen/Mansfield Park.txt
+texts/Jane Austen/Pursuasion.txt
+texts/Jane Austen/Sense and Sensibility.txt
+~
+Mark Twain
+1835
+#1910
+*Samuel Langhorne Clemens (November 30, 1835 - April 21, 1910), better known by his pen name Mark Twain, was an American author and humorist.
+texts/Mark Twain/A Connecticut Yankee in King Arthur's Court.txt
+texts/Mark Twain/A Tramp Abroad.txt
+texts/Mark Twain/Life on the Mississippi.txt
+texts/Mark Twain/The Prince and the Pauper.txt
+~
+William Shakespeare
+1564
+#1616
+*William Shakespeare (26 April 1564 (baptised) - 23 April 1616) was an English poet, playwright and actor, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist.
+texts/William Shakespeare/Hamlet.txt
+texts/William Shakespeare/King Lear.txt
+texts/William Shakespeare/King Richard III.txt
+texts/William Shakespeare/Macbeth.txt
+texts/William Shakespeare/The Tempest.txt
+~
